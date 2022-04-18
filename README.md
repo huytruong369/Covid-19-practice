@@ -17,6 +17,15 @@ samples, guidance on mobile development, and a full API reference.
 
 Knowledge:
 LinearGradient
+CustomPath
+Stack
+Reuse widget
 
 ### Covid-19 App Final UI
 ![App UI](/covid_19.png)
+
+### Home Screen
+![App UI](/home_screen.png)
+
+### InFo Screen
+![App UI](/info_screen.png)
